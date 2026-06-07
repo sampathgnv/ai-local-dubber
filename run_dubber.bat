@@ -1,5 +1,4 @@
 @echo off
-set HF_TOKEN=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
 echo ==================================================
 echo       Plex AI Dubbing Pipeline (E: Drive Setup)     
 echo ==================================================
